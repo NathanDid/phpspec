@@ -1,2 +1,0 @@
-# phpspec
-Overview of phpspec
